@@ -1,0 +1,6 @@
+#uttool dependencies
+pytube
+pyyaml
+pyfiglet
+termcolor
+colorama
